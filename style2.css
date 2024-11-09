@@ -1,0 +1,25 @@
+*{
+    font-family: Times;
+    background-color: black;
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 99px;
+    color: cyan;
+ 
+}
+
+h1{
+    font-size: 99px;
+    color: yellow;
+    text-decoration: wavy;
+    text-decoration-color: greenyellow;
+    text-decoration-line: underline;
+}
+
+h2{
+    font-size: 99px;
+    font-family: 'Times New Roman';
+}
